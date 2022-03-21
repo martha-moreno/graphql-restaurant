@@ -1,0 +1,15 @@
+{
+  "type": "commonjs",
+  "name": "graphql-restaurant-data-exercise_starter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Martha",
+  "license": "MIT",
+  "dependencies": {
+    "express-graphql": "^0.12.0"
+  }
+}
